@@ -1,4 +1,4 @@
-# Analyze Olympic Games History with SQL BigQuery
+# :books: Analyze Olympic Games History with SQL BigQuery
 
 ## :notebook_with_decorative_cover: Introduction
 Hi, I'm Ajimas Galung Candra, an aspiring data analyst and data scientist. In this project, I try to solve some SQL challenges from one of the Data enthusaist
